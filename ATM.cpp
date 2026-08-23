@@ -26,7 +26,7 @@ int main()
             cin.ignore();
             cin.get();
 
-            cout << "Thanks for using Fraud ATM.";
+            cout << "Thanks for using ATM.";
             break;
 
         case 2:
@@ -54,7 +54,7 @@ int main()
             cin.ignore();
             cin.get();
 
-            cout << "Thanks for using Fraud ATM.";
+            cout << "Thanks for using ATM.";
             break;
 
         case 3:
@@ -144,7 +144,7 @@ int main()
             cin.ignore();
             cin.get();
 
-            cout << "Thanks for using Fraud ATM.";
+            cout << "Thanks for using ATM.";
             break;
 
         default:
